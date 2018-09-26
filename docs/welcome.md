@@ -17,7 +17,7 @@ VuePress is focused on content-centric static sites and provides features tailor
 
 ## Quickstart 
 
-[Life Demo on Netlify](https://nifty-williams-038c26.netlify.com/)
+[Life Demo on Netlify](https://pedantic-shannon-ec4e1f.netlify.com)
 
 Use the one-click deploy button and get a copy of this base-template as a repositary in your own GitHub account and additionally
 a live-server version on Netlify for free. Every change in the GitHub **README.md** file will then automatically change 
