@@ -3,8 +3,8 @@ title: Welcome to the VuePress + Netlify Example
 ---  
 
 <a href="https://vuepress.vuejs.org/" target="_blank" rel="nofollow">
-    <img width="280" src="https://raw.githubusercontent.com/vuejs/vuepress/master/docs/.vuepress/public/hero.png" alt="logo" />
-  </a>  
+    <img width="280" src="https://res.cloudinary.com/iicamp/image/upload/v1473313729/brokers_dfrhiy.svg" alt="logo" />
+</a>  
   
 
 # VuePress
