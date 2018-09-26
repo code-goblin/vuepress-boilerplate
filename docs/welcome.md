@@ -35,10 +35,6 @@ you can find under [vuepress.vuejs.org/guide/deploy](https://vuepress.vuejs.org/
 
 
 
----
-title: Custom VuePress Theme
----
-
 # Create a Custom VuePress Theme with Vuetify
 
 If you’ve heard of VuePress already you might know that it’s a powerfully minimal static site generator by Vue.js Creator Evan You. VuePress makes the creation of text-heavy documentation websites easy, a lot easier than Nuxt.js.
